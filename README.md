@@ -1,6 +1,12 @@
 # uts_1125170150
 
-A new Flutter project.
+A new Flutter project for Firebase Authentication.
+
+## Screenshots
+
+| Halaman Login | Registrasi Email | Berhasil Login |
+|:---:|:---:|:---:|
+| ![Halaman Login](assets/Halaman_Login.png) | ![Registrasi Email](assets/Registrasi_Email.png) | ![Berhasil Login](assets/Berhasil_Login.png) |
 
 ## Getting Started
 
